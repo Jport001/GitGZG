@@ -29,7 +29,7 @@
       <text>密码：</text>
       </view>
       <view>
-      <text>验证码：</text>
+      <text>验证码：123456</text>
       </view>
     </view>
   </view>
