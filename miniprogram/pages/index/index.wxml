@@ -22,14 +22,13 @@
       </view>
     </view>
     <view class="box-content">
-     
-      
-
-    
-    
+      <view>
+      <text>账号：</text>
+      </view>
+      <view>
+      <text>密码：</text>
+      </view>
     </view>
-
-
   </view>
 
 
